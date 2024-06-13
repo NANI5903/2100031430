@@ -15,3 +15,23 @@ Random output
 
 
 
+
+Top N Products (outputs)
+![image](https://github.com/NANI5903/2100031430/assets/112611715/c5181ded-6108-43ea-85c6-8e07c282b207)
+![image](https://github.com/NANI5903/2100031430/assets/112611715/48e7e05d-dd19-4797-aba9-65e492e958ff)
+![image](https://github.com/NANI5903/2100031430/assets/112611715/90188ce2-4430-4709-896a-9021e381762e)
+![image](https://github.com/NANI5903/2100031430/assets/112611715/f988019d-420d-4ee1-80cf-a532e54af9c6)
+![image](https://github.com/NANI5903/2100031430/assets/112611715/0d88656a-bff5-4708-ada3-5ff834081e5c)
+![image](https://github.com/NANI5903/2100031430/assets/112611715/6c70738f-b2c8-46aa-9248-bf0c5d53d41a)
+
+
+
+
+
+
+
+
+
+
+
+
